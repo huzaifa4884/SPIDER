@@ -1,6 +1,10 @@
 #include<iostream>
 #include<stdlib.h>
 using namespace std;
+//Aloo k parathay hein
+//Garam garam aanday hein
+//Hum tum ne khanay hein
+//Baray majay anay hein
 class sales
 {
 	private:
